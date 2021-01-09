@@ -1,2 +1,2 @@
-# vertx-eventbus-trace-span-example
-producer to show bug in vertx eventbus tracing 
+# Example
+producer for vertx issue outlined here https://github.com/eclipse-vertx/vert.x/issues/3737
